@@ -1,4 +1,4 @@
-const copyright = () => {
+const copyrightSet = () => {
   console.clear()
   const styles = `font-size: 16px;
       line-height: 1.4;
