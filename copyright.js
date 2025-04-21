@@ -18,5 +18,5 @@ if (location.protocol === 'https:') {
 
   setTimeout(() => {
     copyrightSet()
-  }, 2000)
+  }, 5000)
 }
